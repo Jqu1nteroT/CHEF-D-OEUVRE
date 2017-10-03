@@ -10,5 +10,4 @@ et aussi les frameworks plus populaire adapté à notre travaille.
 ## Développement
 
 ### Phase 1:
-
  : Création du concept et développement de model avec [**Balsamiq**](https://balsamiq.com/ "Balsamiq").
