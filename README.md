@@ -14,7 +14,7 @@ Faire un site web de type blog avec une back-end CMS, à travers de **Wordpress*
  
  ### Phase 2:
  
- Avec une concept déjà defini, nous procédons à faire l'integrations de notre model a **Wordpress** avec tout le fonctionnalité que vient deja defini dans notre CMS.
+ Avec une concept déjà defini, nous procédons à faire l'integrations de notre model a [**Wordpress**](https://wordpress.org/ "Wordpress") avec tout le fonctionnalité que vient deja defini dans notre CMS.
  
  ### Phase 3:
  
