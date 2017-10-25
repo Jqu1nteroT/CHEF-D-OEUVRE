@@ -4,7 +4,7 @@ Project finale avec toutes les outils déjà appris.
 
 ## Objectifs
 
-Faire un site web de type blog avec une back-end CMS, à travers de **Wordpress**. Pour faire cela, nous utilisons toutes les outils déjà appris et aussi les frameworks plus populaire adapté à notre travaille.
+Faire un site web de type blog avec une back-end CMS, à travers de [**Wordpress**](https://wordpress.org/ "Wordpress"). Pour faire cela, nous utilisons toutes les outils déjà appris et aussi les frameworks plus populaire adapté à notre travaille.
 
 ## Développement
 
